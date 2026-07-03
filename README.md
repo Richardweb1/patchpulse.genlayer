@@ -29,7 +29,8 @@ The leader fetches up to 10 KB from a public HTTPS release source with `gl.nonde
 - Call status: `FINALIZED + AGREE + FINISHED_WITH_RETURN`
 - Trace: `result_code = 0`, empty `stderr`, no revert
 - Finalized state: `UNCLEAR`, scan count `1`
-- GitHub and live app: pending
+- GitHub: https://github.com/Richardweb1/patchpulse.genlayer
+- Live app: https://patchpulse-genlayer.vercel.app
 
 ## Local
 
